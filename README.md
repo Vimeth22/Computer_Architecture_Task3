@@ -118,6 +118,6 @@ The program prints:
 For full assignment submission, include:
 - `Task3.py`
 - This `README.md`
-- GitHub Link: 
-- 1–2 minute demo video showing code + output 
+- GitHub Link: https://github.com/Vimeth22/Computer_Architecture_Task3
+- Demo Video Link: 
 - Response to: “Can video recordings be uploaded to YouTube?” -> **Yes**
