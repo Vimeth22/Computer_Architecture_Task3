@@ -42,8 +42,8 @@ The simulator enforces:
 
 ## 3) File Structure
 
-- `Task3.py` — complete Task 3 simulator
-
+- `Task3.py` 
+- `README.md`
 ---
 
 ## 4) Requirements
